@@ -1,0 +1,23 @@
+table{
+  border: 2px solid #000;
+  border-collapse: collapse;
+}
+
+h2{
+  text-align: left;
+}
+
+td{
+  text-align: left;
+  border: 2px solid #000;
+}
+
+th{
+  text-align: center;
+  border: 2px solid #000;
+  background-color: #ddff00;
+}
+
+caption{
+  text-align: center;
+}
